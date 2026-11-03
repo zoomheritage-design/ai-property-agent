@@ -215,9 +215,9 @@ export default function Dashboard() {
           </div>
           <div>
             <h1 className="text-lg font-extrabold leading-tight text-navy-800 sm:text-xl">
-              LAHORE PROPERTY BUYER RADAR
+              AI PROPERTY EMPIRE PAKISTAN
             </h1>
-            <p className="text-xs text-navy-400">AI Lead Finder · genuine property buyers in Lahore</p>
+            <p className="text-xs text-navy-400">Pakistan Real Estate Intelligence · 6-agent platform</p>
           </div>
         </div>
         <div className="flex flex-wrap items-center gap-2">
